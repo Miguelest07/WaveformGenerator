@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-27T20:47:22.284Z" agent="5.0 (Windows)" etag="suEehsnpV6UkS0OJOmED" version="20.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-27T21:20:58.085Z" agent="5.0 (Windows)" etag="F6BjXEcpxLEKS8g_oshp" version="20.2.2" type="github">
   <diagram id="7pvFH5eABRikgGRUm6E7" name="Página-1">
-    <mxGraphModel dx="1422" dy="744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="677" dy="354" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -54,6 +54,27 @@
               <mxPoint x="170.26" y="90" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="hddoIIIZTjqqpR7IFEJA-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="20" width="280" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="hddoIIIZTjqqpR7IFEJA-4" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="40" y="210" width="250" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="hddoIIIZTjqqpR7IFEJA-5" value="&lt;div&gt;V+ &lt;br&gt;&lt;/div&gt;&lt;div&gt;(12V)&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="55" y="310" width="45" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="hddoIIIZTjqqpR7IFEJA-6" value="&lt;div&gt;V - &lt;br&gt;&lt;/div&gt;&lt;div&gt;(-12V)&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="115" y="310" width="45" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="hddoIIIZTjqqpR7IFEJA-11" value="Split rail DC switching regulator" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="55" y="230" width="105" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="hddoIIIZTjqqpR7IFEJA-12" value="&lt;div&gt;12V to 3.3V &lt;br&gt;&lt;/div&gt;&lt;div&gt;regulator&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="180" y="230" width="95" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="hddoIIIZTjqqpR7IFEJA-15" value="&lt;div&gt;Vcc &lt;br&gt;&lt;/div&gt;&lt;div&gt;(3.3V)&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="205" y="310" width="45" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
